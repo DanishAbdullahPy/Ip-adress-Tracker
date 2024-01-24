@@ -30,17 +30,6 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
   - See their own IP Address on the map on the initial page load
   - Search for any IP addresses or domains and see the key information and location
 
-### Screenshot
-
-<img src="https://user-images.githubusercontent.com/59930625/207266072-094cba61-caa8-4c36-94d5-3d32becbfd9a.png" alt="screenshot">
-<img height="450px" src="https://user-images.githubusercontent.com/59930625/207266088-a20b46d0-75ec-428d-bb25-24f4d879ff00.png" alt="screenshot-2">
-
-### Links
-
-- Solution URL: [Link](https://github.com/anushkachauhxn/frontend-mentor-projects/tree/main/projects/8-ip-address-tracker)
-- Live Site URL: [Link](https://anushkachauhxn.github.io/frontend-mentor-projects/projects/8-ip-address-tracker/)
-
-## 💡 My process
 
 ### Built with
 
