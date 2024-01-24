@@ -89,9 +89,3 @@ function loadMapView(lat, lng) {
 - [IP Geolocation API Docs](https://geo.ipify.org/docs)
 - [Using Fetch | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-## ⭐ Author
-
-- LinkedIn - [@anushka-chauhan](https://www.linkedin.com/in/anushka-chauhan)
-- GitHub - [@anushkachauhxn](https://github.com/anushkachauhxn)
-- Behance - [@anushkachauhan](https://www.behance.net/anushkachauhan)
-- Twitter - [@anushkachauhxn](https://twitter.com/anushkachauhxn)
